@@ -1,3 +1,29 @@
+# smart-excalidraw-next
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+智能强大的 Excalidraw 绘图工具，用自然语言绘制专业图表。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Smart Excalidraw
 > **用自然语言，绘制专业图表**
 
